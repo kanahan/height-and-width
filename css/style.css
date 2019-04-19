@@ -1,0 +1,22 @@
+table {
+  border-collapse: collapse;  
+  width: 100%;
+}
+
+table td {
+  border: 1px solid #555;
+  text-align: center;
+}
+
+div {
+  border: 20px solid blue;
+  background-color: #cccccc;
+  width: 900px;
+  padding: 20px;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+span {
+  font-weight: bold;
+}
